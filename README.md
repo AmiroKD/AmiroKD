@@ -50,22 +50,18 @@ contact: amirokd.dpdns.org
 ## 📊 GitHub 数据
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmiroKD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiroKD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmiroKD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmiroKD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AmiroKD&theme=tokyonight&hide_border=true&locale=zh_CN&short_stats=true" height="170" alt="Streak Stats"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmiroKD&theme=tokyonight&no-frame=true&no-ego=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</div>
-
-## 📈 活动曲线
+## 📅 贡献热力图
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiroKD&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://ghchart.rshah.org/00D9FF/AmiroKD" width="100%" alt="Contribution Chart"/>
 </div>
 
 ## 🐍 贪吃蛇
