@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1E90FF,100:8A2BE2&height=200&section=header&text=ZhangWeiluo&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Java%20Backend%20Developer%20%20%E2%80%A2%20%20%E5%B9%BF%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2&descSize=18&descAlignY=58&descAlign=center&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1E90FF,100:8A2BE2&height=200&section=header&text=ZhangWeiluo&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Java%20Backend%20Developer&descSize=18&descAlignY=58&descAlign=center&animation=fadeIn" width="100%" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=640&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+AmiroKD+(ZhangWeiluo);%E2%98%95+Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E2%9A%A1+Spring+Boot+%C2%B7+MySQL+%C2%B7+Redis;%F0%9F%9A%80+%E6%AD%A3%E5%9C%A8%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E4%BB%A3%E7%A0%81" alt="Typing SVG"/>
 
@@ -13,7 +13,6 @@
 
 ```yaml
 name: ZhangWeiluo (AmiroKD)
-school: 广州理工学院
 role: Java 后端开发
 languages: [Java, Python, TypeScript, HTML]
 learning: [Spring Cloud, 微服务, Redis]
